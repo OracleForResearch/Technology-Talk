@@ -9,4 +9,4 @@ By Rajib Ghosh - Global senior solutions architect at Oracle for Research
 
 #### Architecture and Automation for researchers - presented 10/23/2020
 1. [Architecture and Automation for Researchers](https://youtu.be/kjy2XtAjJ-E)
-2. [Slide Deck]()
+2. [Slide Deck](https://github.com/OracleForResearch/Technology-Talk/blob/main/OFRTechnologyTalk-10232020.pptx)
