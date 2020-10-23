@@ -3,7 +3,7 @@
 One hour, interactive webinars designed to help the Oracle for Research Community learn exactly what researchers need to know to optimize their use of Oracle for their research work - from basic Oracle Cloud navigation best practices, architectures, tools and product updates, all specifically focused on research.
 
 #### Registration link
-1. [Registration link](https://oracle.zoom.us/webinar/register/3016008757998/WN_E4Ybiw4RTFWT5ZiTzRkBTQ)
+1. [Technology talk Registration link](https://oracle.zoom.us/webinar/register/3016008757998/WN_E4Ybiw4RTFWT5ZiTzRkBTQ)
 
 #### Oracle cloud foundations for researchers - presented 10/2/2020
 By Rajib Ghosh - Global senior solutions architect at Oracle for Research
