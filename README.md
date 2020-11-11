@@ -30,4 +30,4 @@ The presentation covers the following key technical areas for researchers.
 By Rajib Ghosh - Global senior solutions architect at Oracle for Research
 By Pieter-Jan Vancamp / Dr Alexey Porollo - CCHMC 
 
-2.[Slide Deck (DRAFT)]()
+2.[Slide Deck (DRAFT)](https://github.com/OracleForResearch/Technology-Talk/blob/main/OFRTechnologyTalk-11132020.pptx)
