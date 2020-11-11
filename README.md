@@ -27,7 +27,7 @@ The presentation covers the following key technical areas for researchers.
 2. [Slide Deck](https://github.com/OracleForResearch/Technology-Talk/blob/main/OFRTechnologyTalk-10232020.pptx)
 
 #### Oracle command line interface for researchers - to be presented - 11/13/2020
-By Rajib Ghosh - Global senior solutions architect at Oracle for Research
-By Pieter-Jan Vancamp / Dr Alexey Porollo - CCHMC 
+* By Rajib Ghosh - Global senior solutions architect at Oracle for Research
+* By Pieter-Jan Vancamp / Dr Alexey Porollo - CCHMC 
 
 2.[Slide Deck (DRAFT)](https://github.com/OracleForResearch/Technology-Talk/blob/main/OFRTechnologyTalk-11132020.pptx)
