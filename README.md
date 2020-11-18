@@ -26,3 +26,13 @@ The presentation covers the following key technical areas for researchers.
 1. [Architecture and Automation for Researchers](https://youtu.be/kjy2XtAjJ-E)
 2. [Slide Deck](https://github.com/OracleForResearch/Technology-Talk/blob/main/OFRTechnologyTalk-10232020.pptx)
 
+#### Oracle command line interface for researchers - presented 11/13/2020
+By Rajib Ghosh - Global senior solutions architect at Oracle for Research
+By PJ Vancamp, CCHMC
+
+This presentation covers 
+* Oracle cloud command line interface for Researchers
+* A demo of OCI CLI and automation scripts presented by a researcher
+
+1.[Slide Deck]
+2. [CCHMC github link]
