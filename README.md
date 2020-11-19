@@ -36,4 +36,4 @@ This presentation covers
 
 1. [Oracle Cloud command line interface for Researchers](https://youtu.be/7KXWtvM_eoI)
 2. [Slide Deck](https://github.com/OracleForResearch/Technology-Talk/blob/main/OFRTechnologyTalk-11132020.pptx)
-3. [CCHMC github link]
+3. [CCHMC github link](https://github.com/pieterjanvc/OCI_CLI)
