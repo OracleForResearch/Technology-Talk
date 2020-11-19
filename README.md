@@ -34,5 +34,6 @@ This presentation covers
 * Oracle cloud command line interface for Researchers
 * A demo of OCI CLI and automation scripts presented by a researcher
 
-1.[Slide Deck](https://github.com/OracleForResearch/Technology-Talk/blob/main/OFRTechnologyTalk-11132020.pptx)
-2.[CCHMC github link]
+1. [Oracle Cloud command line interface for Researchers](https://youtu.be/7KXWtvM_eoI)
+2. [Slide Deck](https://github.com/OracleForResearch/Technology-Talk/blob/main/OFRTechnologyTalk-11132020.pptx)
+3. [CCHMC github link]
