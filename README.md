@@ -4,6 +4,7 @@ One hour, interactive webinars designed to help the Oracle for Research Communit
 
 #### Registration link
 1. [Technology talk Registration link](https://oracle.zoom.us/webinar/register/3016008757998/WN_E4Ybiw4RTFWT5ZiTzRkBTQ)
+2. Technology advisory contact: OracleForResearchTech_ww@oracle.com
 
 #### Oracle cloud foundations for researchers - presented 10/2/2020
 By Rajib Ghosh - Global senior solutions architect at Oracle for Research
@@ -37,3 +38,9 @@ This presentation covers
 1. [Oracle Cloud command line interface for Researchers](https://youtu.be/7KXWtvM_eoI)
 2. [Slide Deck](https://github.com/OracleForResearch/Technology-Talk/blob/main/OFRTechnologyTalk-11132020.pptx)
 3. [CCHMC github link](https://github.com/pieterjanvc/OCI_CLI)
+
+## Demo and Q & A sessions with University Researchers
+1. [Demo playlist](https://www.youtube.com/playlist?list=PL-tjjbUH8cm3cGih2_IDUHt3b3kCqU5Kv)
+* [University of Western Australia](https://www.youtube.com/watch?v=j6es4hvLHhI&list=PL-tjjbUH8cm3cGih2_IDUHt3b3kCqU5Kv&index=1)
+* [Ohio state university](https://www.youtube.com/watch?v=RceXmeqxTfI&list=PL-tjjbUH8cm3cGih2_IDUHt3b3kCqU5Kv&index=2)
+* [University of Pennsylvania]()
