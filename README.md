@@ -39,6 +39,17 @@ This presentation covers
 2. [Slide Deck](https://github.com/OracleForResearch/Technology-Talk/blob/main/OFRTechnologyTalk-11132020.pptx)
 3. [CCHMC github link](https://github.com/pieterjanvc/OCI_CLI)
 
+#### Cost estimation and control for Researchers
+* By Rajib Ghosh - Global senior solutions architect at Oracle for Research
+* By Bryan Barker - Research Associate 
+
+This presentation covers 
+* Demo of the cloud advisor tool for research
+* Cost pricing, estimation, tools and control guidelines
+* Cost analysis and reporting guidelines
+
+1. [Cost estimation and control for Researchers](https://youtu.be/-GzEQI6rMgk)
+
 ## Demo and Q & A sessions with University Researchers
 1. [Demo playlist](https://www.youtube.com/playlist?list=PL-tjjbUH8cm3cGih2_IDUHt3b3kCqU5Kv)
 * [University of Western Australia](https://www.youtube.com/watch?v=j6es4hvLHhI&list=PL-tjjbUH8cm3cGih2_IDUHt3b3kCqU5Kv&index=1)
