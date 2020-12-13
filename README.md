@@ -51,7 +51,12 @@ This presentation covers
 1. [Cost estimation and control for Researchers](https://youtu.be/-GzEQI6rMgk)
 
 ## Demo and Q & A sessions with University Researchers
-1. [Demo playlist](https://www.youtube.com/playlist?list=PL-tjjbUH8cm3cGih2_IDUHt3b3kCqU5Kv)
+* [Demo and solution playlist](https://www.youtube.com/playlist?list=PL-tjjbUH8cm3cGih2_IDUHt3b3kCqU5Kv)
 * [University of Western Australia](https://www.youtube.com/watch?v=j6es4hvLHhI&list=PL-tjjbUH8cm3cGih2_IDUHt3b3kCqU5Kv&index=1)
 * [Ohio state university](https://www.youtube.com/watch?v=RceXmeqxTfI&list=PL-tjjbUH8cm3cGih2_IDUHt3b3kCqU5Kv&index=2)
 * [University of Pennsylvania]()
+
+## Internet2 conference presentation
+* [Recording](https://internet2.edu/past-events/december-2020-events/)
+* [Blog](https://internet2.edu/high-performance-computing-helps-researchers-predict-whether-a-drug-will-harm-your-heart/)
+
