@@ -18,55 +18,6 @@ External presentations (internet2)
 |     :---    |     :---      |:---      |:--- |
 | **Drug toxicity research and benchmarking with Oracle HPC**  | 12/08/2023 | Dr Igor Vorobyov UCDavis<br>Rajib Ghosh- Global senior solutions architect|[Video](https://go.oracle.com/LP=102365?elqCampaignId=270235)<br>[Blog](https://internet2.edu/high-performance-computing-helps-researchers-predict-whether-a-drug-will-harm-your-heart/)<br>[Slides](https://github.com/OracleForResearch/Technology-Talk/blob/main/Internet2_UCDavis_12082020.pdf)
 
-#### Oracle cloud foundations for researchers - presented 10/2/2020
-By Rajib Ghosh - Global senior solutions architect at Oracle for Research
-
-The presentation covers the following key technical areas for researchers.
-* Various types of Oracle cloud images, their usages and applications
-* Decision tree to appropriate select GPU and CPU shapes 
-
-1. [Oracle Cloud Foundations for Researchers](http://oracl.info/XBP850BKalW)
-2. [Slide Deck](https://github.com/OracleForResearch/Technology-Talk/blob/main/OFRTechnologyTalk-10022020.pdf)
-
-#### Architecture and Automation for researchers - presented 10/23/2020
-By Rajib Ghosh - Global senior solutions architect at Oracle for Research
-
-The presentation covers the following key technical areas for researchers.
-* Oracle cloud architectures for researchers
-* A quick setup of Oracle cloud CPU/GPU clusters
-* Managing your environment through resource stacks and Terraform
-
-1. [Architecture and Automation for Researchers](https://youtu.be/kjy2XtAjJ-E)
-2. [Slide Deck](https://github.com/OracleForResearch/Technology-Talk/blob/main/OFRTechnologyTalk-10232020.pdf)
-
-#### Oracle command line interface for researchers - presented 11/13/2020
-* By Rajib Ghosh - Global senior solutions architect at Oracle for Research
-* By PJ Vancamp, CCHMC
-
-This presentation covers 
-* Oracle cloud command line interface for Researchers
-* A demo of OCI CLI and automation scripts presented by a researcher
-
-1. [Oracle Cloud command line interface for Researchers](https://youtu.be/7KXWtvM_eoI)
-2. [Slide Deck](https://github.com/OracleForResearch/Technology-Talk/blob/main/OFRTechnologyTalk-11132020.pdf)
-3. [CCHMC github link](https://github.com/pieterjanvc/OCI_CLI)
-
-#### Cost estimation and control for Researchers - presented 12/04/2023
-* By Rajib Ghosh - Global senior solutions architect at Oracle for Research
-* By Bryan Barker - Research Associate 
-
-This presentation covers 
-* Demo of the cloud advisor tool for research
-* Cost pricing, estimation, tools and control guidelines
-* Cost analysis and reporting guidelines for Research
-
-1. [Cost estimation and control for Researchers](https://youtu.be/-GzEQI6rMgk)
-2. [Slide Deck](https://github.com/OracleForResearch/Technology-Talk/blob/main/OFRTechnologyTalk-12042020.pdf)
-
-## Internet2 presentation
-* [Slide Deck](https://github.com/OracleForResearch/Technology-Talk/blob/main/Internet2_UCDavis_12082020.pdf)
-* [Blog](https://internet2.edu/high-performance-computing-helps-researchers-predict-whether-a-drug-will-harm-your-heart/)
-
 ## Demo and Q & A sessions with University Researchers
 * [Demo and solution playlist](https://www.youtube.com/playlist?list=PL-tjjbUH8cm3cGih2_IDUHt3b3kCqU5Kv)
 * [University of Western Australia](https://www.youtube.com/watch?v=j6es4hvLHhI&list=PL-tjjbUH8cm3cGih2_IDUHt3b3kCqU5Kv&index=1)
