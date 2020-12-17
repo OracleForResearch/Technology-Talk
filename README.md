@@ -25,5 +25,6 @@ One hour, interactive webinars designed to help the Oracle for Research Communit
 * [University of Western Australia](https://www.youtube.com/watch?v=j6es4hvLHhI&list=PL-tjjbUH8cm3cGih2_IDUHt3b3kCqU5Kv&index=1)
 * [Ohio state university](https://www.youtube.com/watch?v=RceXmeqxTfI&list=PL-tjjbUH8cm3cGih2_IDUHt3b3kCqU5Kv&index=2)
 * [University of Pennsylvania]()
+* [Rice university Cloud Setup by HPC team](https://objectstorage.uk-london-1.oraclecloud.com/p/byj-eBoH8hL8uHpmVYUkmFZvPvq6Ws6htbt5yoI5iraRWOmq6QmPAMb1l8D-6sZK/n/hpc_limited_availability/b/customer/o/Rice%20Onboarding%20Session%2012.17.20.mp4)
 
 
