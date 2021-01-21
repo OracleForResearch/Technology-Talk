@@ -14,6 +14,9 @@ One hour, interactive webinars designed to help the Oracle for Research Communit
 | **Architecture and Automation Tools for Researchers**<br>* Oracle cloud architectures<br>* A quick setup of Oracle cloud CPU/GPU clusters<br>* Resourec stacks and Terraform workflow | 10/23/2020| Rajib Ghosh - Global senior solutions architect|[Video](https://youtu.be/kjy2XtAjJ-E)<br>[Slides](https://github.com/OracleForResearch/Technology-Talk/blob/main/OFRTechnologyTalk-10232020.pdf)
 | **Oracle command line interface for Researchers**<br>* Oracle cloud command line interface<br>* OCI CLI demo and automation  | 11/13/2020 | PJ Vancamp - Researcher at CCHMC<br>Rajib Ghosh - Global senior solutions architect|[Video](https://youtu.be/7KXWtvM_eoI)<br>[Slides](https://github.com/OracleForResearch/Technology-Talk/blob/main/OFRTechnologyTalk-12042020.pdf)
 | **Cost estimation and control for Researchers**<br>* Cloud advisor demo<br>* Cost pricing, estimation, tools and control guidelines<br>* Cost analysis and reporting guidelines  | 12/04/2023 | Rajib Ghosh- Global senior solutions architect<br>Bryan Barker - Research Associate|[Video](https://youtu.be/-GzEQI6rMgk)<br>[Slides](https://github.com/OracleForResearch/Technology-Talk/blob/main/OFRTechnologyTalk-12042020.pdf)
+| **Oracle Resources for Researchers**<br>* Research resource hub<br>* Research areas and tools<br>* Live labs and blogs  | 01/15/2021 | Rajib Ghosh- Global senior solutions architect|[Video](https://youtu.be/lyr6zJk9pMg)<br>[Slides](https://github.com/OracleForResearch/Technology-Talk/blob/main/OFRTechnologyTalk-01152021.pdf)
+
+
 
 #### External presentations (internet2)
 | Topic | Presented On | Presented By | Links |
