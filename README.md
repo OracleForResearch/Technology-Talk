@@ -16,8 +16,6 @@ One hour, interactive webinars designed to help the Oracle for Research Communit
 | **Cost estimation and control for Researchers**<br>* Cloud advisor demo<br>* Cost pricing, estimation, tools and control guidelines<br>* Cost analysis and reporting guidelines  | 12/04/2023 | Rajib Ghosh- Global senior solutions architect<br>Bryan Barker - Research Associate|[Video](https://youtu.be/-GzEQI6rMgk)<br>[Slides](https://github.com/OracleForResearch/Technology-Talk/blob/main/OFRTechnologyTalk-12042020.pdf)
 | **Oracle Resources for Researchers**<br>* Research resource hub<br>* Research areas and tools<br>* Live labs and blogs  | 01/15/2021 | Rajib Ghosh- Global senior solutions architect|[Video](https://youtu.be/lyr6zJk9pMg)<br>[Slides](https://github.com/OracleForResearch/Technology-Talk/blob/main/OFRTechnologyTalk-01152021.pdf)
 
-
-
 #### External presentations (internet2)
 | Topic | Presented On | Presented By | Links |
 |     :---    |     :---      |:---      |:--- |
@@ -29,5 +27,5 @@ One hour, interactive webinars designed to help the Oracle for Research Communit
 * [Ohio state university](https://www.youtube.com/watch?v=RceXmeqxTfI&list=PL-tjjbUH8cm3cGih2_IDUHt3b3kCqU5Kv&index=2)
 * [University of Pennsylvania]()
 * [Rice university Cloud Setup by HPC team](https://youtu.be/6X30Md79cHk)
-
-
+* [Kubernetes discussion with Rice](https://www.youtube.com/watch?v=VjbdSGe-dww&list=PL-tjjbUH8cm3cGih2_IDUHt3b3kCqU5Kv&index=4&t=2s)
+* [OCI Storage options - GWU demo](https://www.youtube.com/watch?v=FcfqRMx4e-w&list=PL-tjjbUH8cm3cGih2_IDUHt3b3kCqU5Kv&index=5)
