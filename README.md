@@ -24,10 +24,7 @@ One hour, interactive webinars designed to help the Oracle for Research Communit
 | **Drug toxicity and MD research benchmarks with Oracle HPC**  | 12/08/2023 | Dr Igor Vorobyov UCDavis<br>Rajib Ghosh- Global senior solutions architect|[Video](https://go.oracle.com/LP=102365?elqCampaignId=270235)<br>[Blog](https://internet2.edu/high-performance-computing-helps-researchers-predict-whether-a-drug-will-harm-your-heart/)<br>[Slides](https://github.com/OracleForResearch/Technology-Talk/blob/main/Internet2_UCDavis_12082020.pdf)
 
 ## Demo and Q & A sessions with University Researchers
-* [Demo and solution playlist](https://www.youtube.com/playlist?list=PL-tjjbUH8cm3cGih2_IDUHt3b3kCqU5Kv)
-* [University of Western Australia](https://www.youtube.com/watch?v=j6es4hvLHhI&list=PL-tjjbUH8cm3cGih2_IDUHt3b3kCqU5Kv&index=1)
-* [Ohio state university](https://www.youtube.com/watch?v=RceXmeqxTfI&list=PL-tjjbUH8cm3cGih2_IDUHt3b3kCqU5Kv&index=2)
-* [University of Pennsylvania]()
-* [Rice university Cloud Setup by HPC team](https://youtu.be/6X30Md79cHk)
-* [Kubernetes discussion with Rice](https://www.youtube.com/watch?v=VjbdSGe-dww&list=PL-tjjbUH8cm3cGih2_IDUHt3b3kCqU5Kv&index=4&t=2s)
-* [OCI Storage options - GWU demo](https://www.youtube.com/watch?v=FcfqRMx4e-w&list=PL-tjjbUH8cm3cGih2_IDUHt3b3kCqU5Kv&index=5)
+
+#### Tech Talk Office Hours - University Research On-Demand Demo Sessions
+
+If you are enrolled in the Oracle for Research program and would like access to your on-demand technical talk office hours demo, please contact us at OracleForResearchTech_ww@oracle.com
