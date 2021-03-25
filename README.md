@@ -21,7 +21,7 @@ One hour, interactive webinars designed to help the Oracle for Research Communit
 #### External presentations (internet2)
 | Topic | Presented On | Presented By | Links |
 |     :---    |     :---      |:---      |:--- |
-| **Drug toxicity and MD research benchmarks with Oracle HPC**  | 12/08/2023 | Dr Igor Vorobyov UCDavis<br>Rajib Ghosh- Global senior solutions architect|[Video](https://go.oracle.com/LP=102365?elqCampaignId=270235)<br>[Blog](https://internet2.edu/high-performance-computing-helps-researchers-predict-whether-a-drug-will-harm-your-heart/)<br>[Slides](https://github.com/OracleForResearch/Technology-Talk/blob/main/Internet2_UCDavis_12082020.pdf)
+| **Drug toxicity and MD research benchmarks with Oracle HPC**  | 12/08/2020 | Dr Igor Vorobyov UCDavis<br>Rajib Ghosh- Global senior solutions architect|[Video](https://go.oracle.com/LP=102365?elqCampaignId=270235)<br>[Blog](https://internet2.edu/high-performance-computing-helps-researchers-predict-whether-a-drug-will-harm-your-heart/)<br>[Slides](https://github.com/OracleForResearch/Technology-Talk/blob/main/Internet2_UCDavis_12082020.pdf)
 
 ## Demo and Q & A sessions with University Researchers
 
