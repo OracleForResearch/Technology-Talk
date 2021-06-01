@@ -18,7 +18,7 @@ One hour, interactive webinars designed to help the Oracle for Research Communit
 | **Kubernetes for Researchers**<br>* Common cloud bursting architecture<br>* Singularity<br>* Research k8 IaaS Image and OKE<br>* ML Pipelines | 02/05/2021 | Rajib Ghosh<br> - Global senior solutions architect | [Slides](https://github.com/OracleForResearch/Technology-Talk/blob/main/OFRTechnologyTalk-02052021.pdf)
 | **Data Science for Researchers**<br>* Data Science platform<br>* Data Science with Oracle Machine Learning<br>* Oracle for Research Data Science<br> | 02/26/2021 | Rajib Ghosh <br> - Global senior solutions architect<br>Mike Riley<br> - Cloud Solutions Architect| [Slides](https://github.com/OracleForResearch/Technology-Talk/blob/main/OFRTechnologyTalk-02262021.pdf)
 | **Autonomous Database**<br>* Introduction for Researchers<br> | 03/17/2021 | Mike Riley<br> - Cloud Solutions Architect<br>Rich Pitts<br> - Research Advocate | [Slides](https://github.com/OracleForResearch/Technology-Talk/blob/main/OFRTechnologyTalk-03172021.pdf)
-| **High Performance Computing for Drug Discovery**<br>* Introduction for Researchers<br> | 04/21/2021 | Harinda Rajapaksha<br> - Cloud Solutions Architect<br>Peter Winn<br> - Research Advocate | [Slides](https://github.com/OracleForResearch/Technology-Talk/blob/main/HighPerformance_Computing_for_Drug_Discovery.pdf)
+| **High Performance Computing for Drug Discovery**<br>* Introduction & Demonstration<br> | 04/21/2021 | Harinda Rajapaksha<br> - Cloud Solutions Architect<br>Peter Winn<br> - Research Advocate | [Slides](https://github.com/OracleForResearch/Technology-Talk/blob/main/HighPerformance_Computing_for_Drug_Discovery.pdf)
 
 #### External presentations (internet2)
 | Topic | Presented On | Presented By | Links |
